@@ -1,5 +1,5 @@
 # Universal Toolbox   
-# Technical support  Contact us: tel:+8617767148763 email:878873449@qq.com
+# Technical support: tel:+8617767148763 email:878873449@qq.com
 
 This is a toolbox app you'll need.
 Noise detection: you can detect the sound level around you.
